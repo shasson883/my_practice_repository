@@ -4,6 +4,9 @@ Created on Mon Apr  6 08:55:33 2020
 
 @author: shass
 """
+
+"Github Directory: https://github.com/shasson883/shasson883/blob/master/internetusers.py"
+
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
